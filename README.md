@@ -1,134 +1,86 @@
-# Hi, I'm Maty Diankha 👋  
-### Founder of MatyGeoDroneAI 🚀
-Geospatial Engineer | Drone Expert | AI Specialist | Future Researcher in White Hydrogen
-
-<p align="left">
-Building geospatial innovation, drone intelligence, and sustainable technology solutions for Africa 🌍
-</p>
+# Maty Diankha  
+### Founder of MatyGeoDroneAI 
+Geospatial Engineer | Drone Expert | AI Specialist | Future Researcher in White Hydrogen 
 
 ---
 
-## 👩🏽‍💼 About Me
+## About Me
 
-I am **Maty Diankha**, a Geomatics Engineer, certified professional drone pilot, trainer, and geospatial technology leader based in :contentReference[oaicite:1]{index=1}.  
+I am Maty Diankha, a Geomatics Engineer, certified drone pilot, trainer, and geospatial technology leader based in Senegal.
 
-With over **5 years of professional experience**, I specialize in:
+With over five years of professional experience, I specialize in drone operations, GIS, remote sensing, photogrammetry, artificial intelligence, and spatial data analysis.
 
-- 🚁 Drone Operations & Aerial Surveying  
-- 🛰️ GIS, Remote Sensing & Satellite Data Analysis  
-- 📊 Spatial Data Science & AI Applications  
-- 🌱 Environmental Monitoring & Climate Solutions  
-- 👩🏽‍🏫 Capacity Building & Technical Training  
+Currently, I serve as Head of Drone & Data Operations at KRANTH SARL and contribute to innovation programs through Senegal Flying Labs.
 
-Currently, I serve as **Head of Drone & Data Operations** at KRANTH SARL and contribute to innovation programs through :contentReference[oaicite:2]{index=2}.
-
-My mission is to use **drones, geospatial intelligence, artificial intelligence, and scientific research** to solve Africa’s real-world challenges.
+My mission is to develop innovative geospatial solutions that support environmental sustainability, infrastructure development, energy transition, and technical capacity building across Africa.
 
 ---
 
-## 🎓 Education
+## Areas of Expertise
 
-- Master's Degree in Geomatics  
-  :contentReference[oaicite:3]{index=3}
-
-- Background in Physics & Chemistry  
-
-- Diploma in Data Science *(ongoing)*  
-
----
-
-## 🛠 Tech Stack
-
-### 🛰️ Geospatial & Remote Sensing
-QGIS • ArcGIS Pro • ENVI • SNAP • ERDAS • Google Earth Engine  
-
-### 🚁 Drone & Photogrammetry
-Pix4D • DJI Terra • RTK/PPK • LiDAR Processing  
-
-### 🤖 Data Science & AI
-Python • Pandas • NumPy • Scikit-Learn • TensorFlow • Deep Learning  
-
-### 📊 Visualization & Analytics
-Power BI • Tableau • Matplotlib • SQL  
-
-### ⚙️ Collaboration & Development
-Git • GitHub • Agile • Scrum • Kanban  
+- Drone Operations and Aerial Surveying
+- GIS and Spatial Data Analysis
+- Remote Sensing and Satellite Image Processing
+- Photogrammetry and 3D Mapping
+- Machine Learning and Deep Learning
+- Environmental Monitoring
+- Technical Training and Capacity Building
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-### 🌿 Mangrove Restoration Monitoring
-Drone-based mapping and monitoring of mangrove restoration areas in Senegal using remote sensing and deep learning.
+### Geospatial Technologies
+QGIS • ArcGIS Pro • ENVI • SNAP • ERDAS • Google Earth Engine
 
-### ☀️ Thermal Inspection of Solar Infrastructure
-Thermal inspection of photovoltaic infrastructure using thermal drones and advanced analytics.
+### Drone and Survey Technologies
+Pix4D • DJI Terra • RTK/PPK • LiDAR Processing
 
-### 🏗 Topographic Survey for Water Infrastructure
-High-precision drone mapping for water infrastructure and master planning.
+### Data Science and Artificial Intelligence
+Python • Pandas • NumPy • Scikit-Learn • TensorFlow
 
-### ⛏ Mining & Quarry Analysis
-Drone photogrammetry for volume estimation, terrain analysis, and geological monitoring.
-
----
-
-## 🌍 Training & International Impact
-
-I have trained engineers, institutions, researchers, and government agencies across:
-
-🇸🇳 Senegal  
-🇬🇭 Ghana  
-🇨🇮 Côte d’Ivoire  
-🇫🇷 France  
-
-My collaborations include ministries, environmental agencies, private companies, and international development organizations.
+### Analytics and Visualization
+Power BI • Tableau • SQL
 
 ---
 
-## 🔬 Future Research Vision
+## Selected Projects
 
-I am actively building my future doctoral research project focused on **White Hydrogen, Geospatial Intelligence, and Sustainable Energy Innovation in Africa**.
+Mangrove Restoration Monitoring in Senegal  
+Drone-based monitoring and mapping of ecosystem restoration zones.
 
-My research ambition is to explore how:
+Thermal Inspection of Solar Infrastructure  
+Inspection and analysis of photovoltaic installations using thermal drones.
 
-- Geological mapping  
-- Remote sensing  
-- Drone surveys  
-- Artificial intelligence  
-- Spatial modeling  
+Topographic Survey for Water Infrastructure  
+High-precision aerial mapping for infrastructure planning.
 
-can support the exploration and sustainable development of natural hydrogen resources in Africa.
-
-### Research Interests
-
-⚡ White Hydrogen Exploration  
-🛰️ Remote Sensing for Energy Detection  
-🚁 Drone-based Geological Surveying  
-🤖 AI for Geoscience Applications  
-🌱 Energy Transition & Climate Innovation  
+Mining and Geological Monitoring  
+Drone-based terrain analysis, volume estimation, and site monitoring.
 
 ---
 
-## 🏆 Certifications
+## Research Vision
 
-- Certified Drone Remote Pilot  
-- Microdrone Certified Instructor  
-- Payload Operator  
-- Visual Observer  
-- Data Science Training  
-- AI & Remote Sensing Certifications  
+I am currently preparing my future doctoral research project focused on White Hydrogen, Geospatial Intelligence, and Sustainable Energy Innovation in Africa.
 
----
+My research interests include:
 
-## 📫 Let's Connect
+- Natural Hydrogen Exploration
+- Geological Mapping
+- Remote Sensing for Energy Resources
+- Drone-based Geological Surveying
+- Artificial Intelligence for Geoscience
 
-📧 Email:geospatialdata2024@gmail.com
-💼 LinkedIn: www.linkedin.com/in/maty-diankha-142187117
-🌐 Portfolio:   
+My long-term objective is to connect geoscience, drone technology, remote sensing, and artificial intelligence to contribute to Africa’s clean energy future.
 
 ---
 
-## 💡 Personal Vision
+## Contact
 
-> "Technology becomes meaningful when it creates impact.  
-> My mission is to combine geospatial science, drones, artificial intelligence, and energy innovation to support Africa’s sustainable future."
+Email: geospatialdata2024@gmail.com
+LinkedIn: www.linkedin.com/in/maty-diankha-142187117
+Portfolio:https://matydiankha.github.io/Maty.DIANKHA/ 
+
+
+
