@@ -122,9 +122,9 @@ can support the exploration and sustainable development of natural hydrogen reso
 
 ## 📫 Let's Connect
 
-📧 Email: your-email  
-💼 LinkedIn: your-link  
-🌐 Portfolio: your-link  
+📧 Email:geospatialdata2024@gmail.com
+💼 LinkedIn: www.linkedin.com/in/maty-diankha-142187117
+🌐 Portfolio:   
 
 ---
 
